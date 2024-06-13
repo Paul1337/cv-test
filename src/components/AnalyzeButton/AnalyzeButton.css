@@ -1,0 +1,24 @@
+.analyze-button {
+	width: 337px;
+	height: 73px;
+	background-color: #077e1a;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	cursor: pointer;
+	border: none;
+}
+
+.analyze-button__text {
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.analyze-button__price {
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+}

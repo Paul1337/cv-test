@@ -1,0 +1,28 @@
+.oval-button {
+	background-color: white;
+	width: 115px;
+	height: 81px;
+	border-radius: 75%;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 81px;
+	font-family: 'Inter', sans;
+	font-weight: 400;
+	color: black;
+	cursor: pointer;
+	font-size: 15px;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rect-button {
+	width: 121px;
+	height: 27px;
+	background-color: #141614;
+	color: white;
+	font-family: 'Inter', sans;
+	font-weight: 600;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}

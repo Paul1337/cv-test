@@ -1,0 +1,14 @@
+.upload-cvs-page {
+}
+
+.upload-cvs-page__content {
+	margin: 0 auto;
+	width: fit-content;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+}
+
+.upload-cvs-page__content h1 {
+}

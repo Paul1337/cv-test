@@ -1,0 +1,46 @@
+.button-input {
+	width: 317px;
+	height: 119px;
+	color: white;
+	background-color: #3a3a3a;
+	font-size: 35px;
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+.button-input input {
+	visibility: hidden;
+	width: 0;
+}
+
+.button-input div {
+	text-align: center;
+}
+.green-button-input {
+	width: 337px;
+	height: 73px;
+	background-color: #077e1a;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	cursor: pointer;
+	border: none;
+}
+
+.green-button-input__text {
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.green-button-input__price {
+	font-family: 'Inter', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+}
